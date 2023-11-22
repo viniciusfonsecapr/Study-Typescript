@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vinicius Fonseca",
+  "email": "vinicius.fonseca20093004@gmail.com",
+  "url": "https://github.com/viniciusfonsecapr",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.1.2",
+    "typescript": "^5.2.2"
+  }
+}
